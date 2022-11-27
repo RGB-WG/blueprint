@@ -59,3 +59,4 @@
 
 * [Overview](devs/overview.md)
 * [Schema development](devs/schema-development.md)
+* [Breaking things](devs/breaking-things.md)
