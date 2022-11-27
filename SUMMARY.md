@@ -58,3 +58,4 @@
 ## Developing for RGB <a href="#devs" id="devs"></a>
 
 * [Overview](devs/overview.md)
+* [Schema development](devs/schema-development.md)
