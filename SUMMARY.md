@@ -55,6 +55,6 @@
 * [Kaleidoscope: DEX](rgb-and-lightning/kaleidoscope-dex.md)
 * [LN nodes running contracts](rgb-and-lightning/ln-nodes-running-contracts.md)
 
-## Toolchain
+## Developing for RGB <a href="#devs" id="devs"></a>
 
-* [Overview](toolchain/overview.md)
+* [Overview](devs/overview.md)
