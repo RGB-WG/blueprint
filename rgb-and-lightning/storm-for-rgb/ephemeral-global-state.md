@@ -1,0 +1,2 @@
+# Ephemeral global state
+
