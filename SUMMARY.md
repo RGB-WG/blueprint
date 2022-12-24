@@ -27,7 +27,7 @@
   * [Genesis](consensus-level/contract-operations/genesis.md)
   * [State transition](consensus-level/contract-operations/state-transition.md)
   * [State extensions](consensus-level/contract-operations/state-extensions.md)
-* [Contract state](consensus-level/contract-state.md)
+* [Page 1](consensus-level/page-1.md)
 * [System libraries](consensus-level/system-libraries.md)
 
 ## Application level
