@@ -32,6 +32,7 @@
 
 ## Application level
 
+* [Identifiers](application-level/identifiers.md)
 * [Invoices](application-level/invoices.md)
 * [Working with PSBTs](application-level/working-with-psbts.md)
 * [RGB containers](application-level/rgb-containers/README.md)
