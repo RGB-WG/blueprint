@@ -29,13 +29,13 @@ Wallets may register to handle `utxob` URL scheme and use this identifier to ope
 
 When parties send a transfer to each other they have an option to notify about the transfer status. Thus, each transfer has its own unique id, which is the hash computed from the transfer consignment. This ID is structured like an URL, in order to allow users to launch a wallet application - with the wallet trying to locate/download consignment using URL components
 
-`consign:2dKWFWQagjeDw9c3JK88KD25rvYcg5PBBBaCtPXz2us1?endpoints=<list-of-endpoints>#three-mnemonic-words`
+`consign:2dKWFWQ-agjeDw9c-3JK88KD2-5rvYcg5P-BBBaCtPX-z2us1q3n-YVVKRf?endpoints=<list-of-endpoints>#three-mnemonic-words`
 
 ### Contract-attached File ID
 
 RGB contracts may contain BLOBs/file objects as a part of their state. These objects are transferred as a part of the consignment, thus are always present in the local RGB stash (thus, the URL scheme is called `stashfs`). RGB wallets may register themselves to open these files. The URL has the form of
 
-`stashfs:2dKWFWQagjeDw9c3JK88KD25rvYcg5PBBBaCtPXz2us1#three-mnemonic-words`
+`stashfs:2dKWFWQ-agjeDw9c-3JK88KD2-5rvYcg5P-BBBaCtPX-z2us1q3n-YVVKRf#three-mnemonic-words`
 
 ## URN ids
 
