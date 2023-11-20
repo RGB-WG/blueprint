@@ -1,2 +1,0 @@
-# Bifrost channels
-

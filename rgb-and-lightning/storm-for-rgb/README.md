@@ -1,2 +1,0 @@
-# Storm for RGB
-

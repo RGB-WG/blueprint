@@ -1,2 +1,0 @@
-# LN nodes running contracts
-

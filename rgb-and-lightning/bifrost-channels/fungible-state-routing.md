@@ -1,2 +1,0 @@
-# Fungible state routing
-

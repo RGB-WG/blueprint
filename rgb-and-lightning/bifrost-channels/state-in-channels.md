@@ -1,2 +1,0 @@
-# State in channels
-
