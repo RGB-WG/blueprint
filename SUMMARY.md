@@ -4,12 +4,14 @@
 
 ## Design
 
+* [Motivation](design/motivation.md)
+* [Background](design/background.md)
 * [Design goals](design/goals.md)
-* [Design approaches](design/approach.md)
-* [Protocol overview](design/overview.md)
+* [Design overview](design/overview.md)
 
 ## Consensus level
 
+* [Overview](consensus-level/overview.md)
 * [Schema](consensus-level/schema/README.md)
   * [Data types](consensus-level/schema/data-types.md)
   * [State](consensus-level/schema/state.md)
@@ -44,3 +46,8 @@
 * [Overview](devs/overview.md)
 * [Schema development](devs/schema-development.md)
 * [Breaking things](devs/breaking-things.md)
+
+## Annex
+
+* [Governance](annex/governance.md)
+* [History & acknowledgements](annex/history-and-acknowledgements.md)
