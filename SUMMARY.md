@@ -54,4 +54,4 @@
 
 ***
 
-* [GLOSSARY](glossary.md)
+* [GLOSSARY OF TERMS](glossary-of-terms.md)
