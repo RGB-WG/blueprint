@@ -51,3 +51,7 @@
 
 * [Governance](annex/governance.md)
 * [History & acknowledgements](annex/history-and-acknowledgements.md)
+
+***
+
+* [GLOSSARY](glossary.md)
