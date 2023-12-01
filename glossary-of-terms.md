@@ -80,11 +80,21 @@ A public rights having no state but which can be referenced and  applied through
 
 #### Directed Acyclic Graph - DAG
 
-A directed graph which do not contains any directed cycle thus allowing topological ordering - [wiki](https://en.wikipedia.org/wiki/Directed\_acyclic\_graph)
+A directed graph which do not contains any directed cycle thus allowing topological ordering - [wiki link](https://en.wikipedia.org/wiki/Directed\_acyclic\_graph)
 
 #### Interface
 
-The set of human and wallet-readable information of an RGB contract
+The set of human and wallet-readable information of an RGB \[contract]\(### Contract)
+
+#### Container&#x20;
+
+The way how stash data are exchanged between users&#x20;
+
+#### Engraving
+
+An optional fingerprint that past owners of a contract can register allowing verification of following users. It is implemented in RGB21 interface
+
+####
 
 
 
